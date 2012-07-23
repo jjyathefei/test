@@ -1,1 +1,2 @@
 log2.txt
+bugfix
